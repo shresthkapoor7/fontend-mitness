@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mitnessabc/newappnampname/BuildConfig.java
+ com.mitnessabc.newappnampname.BuildConfig
